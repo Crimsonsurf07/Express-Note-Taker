@@ -4,15 +4,10 @@ This is a simple application called Note Taker that can be used to write and sav
 
 ## Installation
 - Visit Repo and Clone Repository
-- Download NPM Dependencies such as Express - ( npm i express) in Terminal/ Command Line
+- Download NPM Dependencies such as Express type - ( npm i express) in Terminal/ Command Line
+- type ( npm start ) in Terminal/ Command Line to start application
 
-## User Story
 
-```
-AS A small business owner
-I WANT to be able to write and save notes
-SO THAT I can organize my thoughts and keep track of tasks I need to complete
-```
 
 ## Usage
 The following images demonstrate app functionality and user experience! 
